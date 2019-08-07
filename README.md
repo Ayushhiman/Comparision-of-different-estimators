@@ -4,4 +4,4 @@ As all the features had quiet some correlation with target variable feature sele
 For KNN the ideal amount of neighbours was calculated.
 For SVM grid parameter search was done to get the best pair of parameters C and gamma.
 For random forrests the number of estimators used were 600.
-All the models were used to predct on test data. It was found that all of them has similar results, and they were quiet unsuccessful in prediciting whe the loan was not fully paid.
+All the models were used to predict on test data. It was found that all of them has similar results, and they were quite unsuccessful in prediciting whether the loan was not fully paid.
